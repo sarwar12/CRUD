@@ -1,0 +1,28 @@
+/* Header Area Start */
+.header_area {
+	background: grey;
+	color: #fff;
+	padding: 20px 0;
+	border-bottom: 5px solid blueviolet;
+}
+/* Header Area Stop */
+
+/* CRUD Area Start */
+.crud_project{
+	padding: 50px 0;
+}
+/* CRUD Area Stop */
+
+/* Footer Area Start */
+.copyright_area {
+    background: beige;
+    padding: 50px 0;
+    text-align: center;
+}
+.copyright_area p {
+    margin: 0;
+}
+.copyright_area a {
+    font-weight: bold;
+}
+/* Footer Area Stop */
